@@ -4,11 +4,14 @@ Power BI project analyzing Hospital ER data to visualize patient flow, wait time
 ## Dashboard Included
 1. **Monthly View**
    Displays monthly trends in ER visits, wait times, and patient outcomes.
-3. **Consolidate View**
+   
+2. **Consolidate View**
    Provides an overall summary of key ER metrics for strategic insights.
-5. **Patients Details**
+   
+3. **Patients Details**
     Shows individual patient records with visit reasons, timings, and outcomes.
-7. **Key Takeaways**
+   
+4. **Key Takeaways**
    Highlights critical insights and performance improvements from the analysis.
 
 ---
