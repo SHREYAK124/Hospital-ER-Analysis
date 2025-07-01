@@ -64,6 +64,10 @@ In this project, I collected and cleaned hospital emergency room data for analys
 
 ![Dashboard 1](https://github.com/user-attachments/assets/dadf8e4c-241f-444b-a6e3-97c8b735cea9)
 
+---
+## Final Conclusion
+
+The Hospital ER Analysis project provided valuable insights into patient flow and emergency room efficiency. By leveraging Power BI, I was able to present complex data in a clear and interactive format. The dashboards highlighted critical KPIs such as wait times, admission rates, and peak hours. These insights help hospital staff identify bottlenecks and improve response times. The visual reports made data-driven decision-making more accessible for stakeholders. Overall, the project contributed to enhancing operational performance and patient care quality.
 
 
 
