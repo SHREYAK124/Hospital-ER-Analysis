@@ -51,6 +51,9 @@ Power BI project analyzing Hospital ER data to visualize patient flow, wait time
 10. Which departments or doctors handled the highest number of ER cases?
 
 ---
+## Process
+
+In this project, I collected and cleaned hospital emergency room data for analysis. Using Power BI, I created interactive dashboards to visualize key metrics. The analysis focused on patient wait times, admissions, and overall flow. Insights from the data were used to support decisions aimed at improving hospital efficiency and patient care.The dashboard included monthly trends, consolidated views, patient-level details, and key takeaways. Visual elements like slicers and charts enabled easy filtering and deep dives. KPIs such as average wait time, length of stay, and peak hours were highlighted. The project aimed to enhance data-driven decision-making for hospital management.
 
 
 
