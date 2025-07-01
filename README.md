@@ -58,8 +58,12 @@ In this project, I collected and cleaned hospital emergency room data for analys
 
 
 ---
-## Dashboard Screenshorts
-- <a href="
+## Dashboard ScreenShots
+- <a href="https://github.com/SHREYAK124/Hospital-ER-Analysis/tree/main/ScreenShorts">ScreenShots </a>
+
+
+![Dashboard 1](https://github.com/user-attachments/assets/dadf8e4c-241f-444b-a6e3-97c8b735cea9)
+
 
 
 
